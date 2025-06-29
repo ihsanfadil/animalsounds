@@ -7,7 +7,9 @@
 animal_sounds(animal, sound)
 }
 \arguments{
-\item{sound}{}
+\item{animal}{Name of the animal}
+
+\item{sound}{Sound of the animal}
 }
 \value{
 The name of animal and its sound.
