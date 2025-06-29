@@ -13,7 +13,7 @@ animal_sounds(animal, sound)
 The name of animal and its sound.
 }
 \description{
-Specifies an animal and its sound.
+This function uses a \link{paste0} from \emph{base} R.
 }
 \examples{
 animal_sounds("cat", "purrr")
